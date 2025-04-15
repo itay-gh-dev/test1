@@ -1,6 +1,6 @@
 {
   "scanSettings": {
-    "releaseBranches": "release\/*",
+    "releaseBranches": ["release\/.*"],
     "enableIaC" : "true"
   },
   "scanSettingsSAST": {
